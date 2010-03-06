@@ -1,0 +1,9 @@
+### 名前にaがつく人の平均年齢をもとめよう
+#name, age
+John, 30
+Bob, 10
+Jane, 20
+Pole, 34
+Michael, 18
+Jody, 22
+Johdan, 10
